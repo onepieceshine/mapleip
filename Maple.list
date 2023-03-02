@@ -1,17 +1,3 @@
-# beanfunweb
-DOMAIN,bahamut.akamaized.net,force-remote-dns
-DOMAIN,gamer-cds.cdn.hinet.net,force-remote-dns
-DOMAIN,gamer2-cds.cdn.hinet.net,force-remote-dns
-DOMAIN,tw.hicdn.beanfun.com,force-remote-dns
-DOMAIN-SUFFIX,bahamut.com.tw,force-remote-dns
-DOMAIN-SUFFIX,gamer.com.tw,force-remote-dns
-DOMAIN-SUFFIX,tw.beanfun.com,force-remote-dns
-DOMAIN-SUFFIX,hk.beanfun.com,force-remote-dns
-IP-CIDR,202.80.107.0/24,force-remote-dns
-IP-CIDR,202.80.107.11/32,force-remote-dns
-IP-CIDR,202.80.107.13/32,force-remote-dns
-DOMAIN,maplestory.beanfun.com,force-remote-dns
-
 # 新枫之谷
 IP-CIDR,3.36.27.126/32,force-remote-dns
 IP-CIDR,13.112.12.29/32,force-remote-dns
